@@ -26,4 +26,3 @@
 
 <br /><br />
 
-<div align="left"><a href="guia-desenvolvimento-web/README.md"><img src="https://i.imgur.com/XMgF3gl.png" title="source: imgur.com" width="3%"/>Voltar</a></div>
