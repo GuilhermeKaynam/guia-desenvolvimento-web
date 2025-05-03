@@ -141,4 +141,4 @@ Agora, o Git está pronto para uso!
 
 <br /><br />
 
-<div align="left"><a href="guia-desenvolvimento-web/README.md"><img src="https://i.imgur.com/XMgF3gl.png" title="source: imgur.com" width="3%"/>Voltar</a></div>
+<div align="left"><a href="README.md"><img src="https://i.imgur.com/XMgF3gl.png" title="source: imgur.com" width="3%"/>Voltar</a></div>
